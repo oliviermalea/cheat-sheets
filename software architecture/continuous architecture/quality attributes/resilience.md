@@ -1,7 +1,8 @@
 # Resilience as a quality attribute
- ---
 
 // TODO : explanations
+
+---
 
 ## Technical resilience mechanisms
 - Recognize the problem

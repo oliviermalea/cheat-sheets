@@ -1,8 +1,9 @@
 # Performance as a quality attribute
 
----
 
 // TODO : explanations
+
+---
 
 ## Modern app performance tactics
 ### Tactics to control resource Demand-Related forces

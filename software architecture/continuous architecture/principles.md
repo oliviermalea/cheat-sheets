@@ -1,6 +1,8 @@
 # Continuous architecture principles
 Klnowledge distilled from the book "Contiuous Architecture in practices : Software architecture in the age of Agility and DevOps".
 
+---
+
 ## Principles
 1. Architect products, evolve from projects to products
 2. Focus on quality attributes, not on functional requirements
