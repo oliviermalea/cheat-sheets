@@ -10,12 +10,11 @@ Klnowledge distilled from "Contiuous Architecture in practices : Software archit
 6. Model the organization of your teams after the design of the system you are working on
 
 ## Tools
-A set of appropriate tools should be considered to make principles a reality, such as trees and decision logs. 
+A set of appropriate tools should be considered to make principles a reality, for example trees and decision logs. 
 
 ## Key components
-Those 6 principles should be sided with a few components well definig the system we worked on :
+Those 6 principles should be sided with a few components well defining the system we worked on :
 - Context of the system
 - Key functional requirements that will impact the architecture
 -  Architecture and Design decison (C4 model and ADR)
-- Architecture blueprints (UML, SysMl mostly)
--  
+-  Architecture blueprints (UML, SysMl mostly) 
