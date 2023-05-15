@@ -6,7 +6,7 @@ Klnowledge distilled from the book "[Continuous Architecture](./continuous-archi
 ## Principles
 1. Architect products, evolve from projects to products
 2. Focus on quality attributes, not on functional requirements
-3. Delay design decisionsuntil they are absolutey necessary
+3. Delay design decisions until they are absolutey necessary
 4. Architect for change--leverage the "power of small"
 5. Architect for build, test, deploy and operate
 6. Model the organization of your teams after the design of the system you are working on
