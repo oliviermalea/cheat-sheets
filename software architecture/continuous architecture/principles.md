@@ -1,5 +1,5 @@
 # Continuous architecture principles
-Klnowledge distilled from "Contiuous Architecture in practices : Software architecture in the age of Agility and DevOps".
+Klnowledge distilled from the book "Contiuous Architecture in practices : Software architecture in the age of Agility and DevOps".
 
 ## Principles
 1. Architect products, evolve from projects to products
