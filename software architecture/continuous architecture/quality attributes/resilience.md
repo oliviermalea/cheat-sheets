@@ -1,7 +1,4 @@
 # Resilience as a quality attribute
-
-[[_TOC_]]
-
  ---
 
 // TODO : explanations
