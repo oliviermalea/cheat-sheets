@@ -1,5 +1,5 @@
 # Continuous architecture principles
-Klnowledge distilled from the book "[Contiuous Architecture](./continuous-architecture.md) in practices : Software architecture in the age of Agility and DevOps".
+Klnowledge distilled from the book "[Continuous Architecture](./continuous-architecture.md) in practices : Software architecture in the age of Agility and DevOps".
 
 ---
 
