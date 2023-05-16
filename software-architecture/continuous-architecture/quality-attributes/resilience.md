@@ -5,6 +5,7 @@
 ---
 
 ## Technical resilience mechanisms
+
 - Recognize the problem
 - Isolate the problem
 - Protect system components that become overloaded
