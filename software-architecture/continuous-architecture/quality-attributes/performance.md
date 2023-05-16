@@ -24,3 +24,7 @@
 - NoSQL Technology
 - Full-Text search
 - Map Reduce
+
+
+Other concept :
+- Balancing the cost of change vs the cost of compensating with scaling 
