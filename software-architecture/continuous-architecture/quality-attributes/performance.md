@@ -1,8 +1,8 @@
 # Performance as a quality attribute
 
-// TODO : explanations
-
 ---
+
+## Overview
 
 ## Modern app performance tactics
 
@@ -28,6 +28,6 @@
 - Full-Text search
 - Map Reduce
 
-
 Other concept :
-- Balancing the cost of change vs the cost of compensating with scaling 
+
+- Balancing the cost of change vs the cost of compensating with scaling
