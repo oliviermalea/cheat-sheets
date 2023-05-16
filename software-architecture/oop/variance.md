@@ -1,6 +1,6 @@
 # Variance
 
-Variance refers to how subtyping between more complex types relates to subtyping between their components.
+Variance refers to how subtyping between more complex types relates to [subtyping](https://en.wikipedia.org/wiki/Subtyping) between their components.
 
 For example, assuming the type Cat is a subtype of Animal, then an expression of type Cat should be substitutable wherever an expression of type Animal is used.
 
