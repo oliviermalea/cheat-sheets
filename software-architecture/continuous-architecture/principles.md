@@ -4,7 +4,7 @@ Klnowledge distilled from the book "[Continuous Architecture](./continuous-archi
 
 ---
 
-## Principles
+## Overview
 
 1. Architect products, evolve from projects to products
 2. Focus on quality attributes, not on functional requirements
