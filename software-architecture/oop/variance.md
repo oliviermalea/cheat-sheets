@@ -9,3 +9,11 @@ For example, assuming the type Cat is a subtype of Animal, then an expression of
 ## Covariance and Contravariance (computer science)
 
 **Covariance** is the quality of being different by being more specific _(Cat is covariant to Animal)_ while **Contravariance** is the quality of being different by being more general _(Animal is contravariant to Cat)_.
+
+---
+
+## Postel's law
+
+In programming, Postel's Law relates to [covariance and contravariance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)). Functions and APIs may be contravariant with respect to their inputs, but covariant with respect to their outputs.
+
+see : https://deviq.com/laws/postels-law
