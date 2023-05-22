@@ -16,4 +16,4 @@ For example, assuming the type Cat is a subtype of Animal, then an expression of
 
 In programming, Postel's Law relates to [covariance and contravariance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)). Functions and APIs may be contravariant with respect to their inputs, but covariant with respect to their outputs.
 
-see : https://deviq.com/laws/postels-law
+see : <https://deviq.com/laws/postels-law>
