@@ -26,4 +26,4 @@ The conclusion should summarize the findings of the software architecture docume
 
 ## References
 
-This section should provide a list of all references used throughout the software architecture document. This includes both internal and external references, such as technical specifications, reports, and research papers.
+This section should provide a list of all references used throughout the software architecture document. This includes both internal and external references, such as technical specifications, reports, and research papers
