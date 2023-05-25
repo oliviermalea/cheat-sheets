@@ -108,7 +108,13 @@ public class Startup
 In the above example, we mapped all the endpoints defined in the Carter modules using the MapCarter method. Alternatively, you can map individual modules by calling the MapCarter method with the specific Carter module type. For example, if we wanted to use the MyModule module defined earlier, we could add the line
 
 ```c
-endpoints.MapCarter<MyModule>(); instead of endpoints.MapCarter();.
+endpoints.MapCarter<MyModule>();
+```
+
+instead of :
+
+```c
+endpoints.MapCarter();.
 ```
 
 By mapping individual modules, you can have more control over which endpoints are available in your application. Additionally, you can define multiple Carter modules in your application, each containing a specific set of endpoints and functionality.
