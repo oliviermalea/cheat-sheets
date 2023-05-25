@@ -10,6 +10,8 @@
 
 ### 1.4 Document Conventions
 
+---
+
 ## Architectural Goals and Constraints
 
 ### 2.1 Functional Requirements
@@ -21,6 +23,8 @@
 ### 2.4 Financial Constraints
 
 ### 2.5 Operational Constraints
+
+---
 
 ## Architectural Design
 
@@ -36,6 +40,8 @@
 
 ### 3.6 Integration and Dependencies
 
+---
+
 ## Design Rationale
 
 ### 4.1 Architectural Patterns
@@ -45,6 +51,8 @@
 ### 4.3 Assumptions and Risks
 
 ### 4.4 Trade-offs
+
+---
 
 ## Views and Perspectives
 
@@ -58,6 +66,8 @@
 
 ### 5.5 Use Case View
 
+---
+
 ## Deployment View
 
 ## Security Considerations
@@ -66,10 +76,14 @@
 
 ## Conclusion
 
+---
+
 ### 9.1 Summary
 
 ### 9.2 Recommendations
 
 ### 9.3 Future Improvements
+
+---
 
 ## References
