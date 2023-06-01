@@ -8,7 +8,7 @@
 title: Conceptual diagram
 ---
 
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'forest'}}%%
 flowchart TB
     subgraph "d"[DataSource]
     direction TB
