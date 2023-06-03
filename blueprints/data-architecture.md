@@ -25,7 +25,7 @@ flowchart TB
         s1[Temp data]
         s2[Lineage data]-->s3(sql repository)
     end
-    subgraph "t"[Transform & Train]
+    subgraph "t"[ransform & Train]
         direction TB
         t1(Data-Warehouse)
     end
@@ -41,6 +41,7 @@ flowchart TB
         c2{{APIsation}}
     end
     d --1--> i1
+    d3 --1--> i1
     d4--1-->i1
     i1--2-->s1
     s1<--3-->t1
