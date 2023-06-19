@@ -1,4 +1,4 @@
-# Resilience as a quality attribute
+# Resilience as a [quality attribute](quality-attributes)
 
 ---
 
