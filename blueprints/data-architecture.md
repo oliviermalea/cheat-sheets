@@ -8,17 +8,18 @@
 title: Conceptual diagram
 ---
 
-%%{init: {'theme':'forest'}}%%
+%%{init: {'theme':'basic'}}%%
 flowchart TB
-    subgraph "d"[DataSource]
+    subgraph "d"[DataSources]
     direction TB
         d1(sources) --> d2[repository]
         d3{{apis}}
         d4[sftp]
+        d5[erp]
     end    
     subgraph "i"[Ingest]
     direction TB
-        i1[ingest service : Azure Synapse]
+        i1[ingest service]
     end
     subgraph "s"[Store]
     direction LR
@@ -41,8 +42,8 @@ flowchart TB
         c2{{APIsation}}
     end
     d --1--> i1
-    d3 --1--> i1
     d4--1-->i1
+    d5--1-->i1
     i1--2-->s1
     s1<--3-->t1
     t1--4 : transform and feed DW-->s2
