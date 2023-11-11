@@ -1,4 +1,5 @@
-# Performance as a quality attribute
+# Performance as a [quality attribute](quality-attributes)
+
 
 ---
 
