@@ -40,6 +40,40 @@ elif A== B :
 else :
     print ('A plus petit que B')
 
+## Pandas
+
+import pandas as pd
+
+### consulter les 5 premières lignes
+
+- data.head(5)
+
+### moyenne
+
+- mean = data[column].mean()
+
+### median
+
+- median = data[column].median()
+
+### valeur la plus représentée du jeu de data
+
+- mode = data[column].mode()
+
+Attention : utilisé avec distplot, les valeurs sont regroupées, le mode sera visuellement faux puisque sur une valeur unique
+
+Il faut changer le display pour afficher les valeurs uniques :
+
+- nbValDif = len(data[column].unique())
+- sns.distplot(list(data[column]), bins=nbValDif)
+- plt = axvline(float(mode), color='y')
+
+## Charts
+
+from matplotlib import pyplot as plt
+
+import seaborn as sns
+
 ## SQL
 
 ### Connexion
@@ -70,3 +104,8 @@ len(query.columns) => nombre de colonnes retournées
 
 ## statistiques
 
+### Statistique descriptive
+
+#### Les variables catégorielles
+
+#### Les variables quantitatives
