@@ -68,6 +68,28 @@ Il faut changer le display pour afficher les valeurs uniques :
 - sns.distplot(list(data[column]), bins=nbValDif)
 - plt = axvline(float(mode), color='y')
 
+### variance
+
+- variance = data[column].var()
+
+### écart-type (standard deviation)
+
+racine carrée de la variance
+
+- ecartType = data[column].std()
+
+- ou variance**(1/2)
+
+### coefficient d'asymétrie
+
+Fait réf à l'asymétrie des données
+
+- skew = data[column].skew()
+
+### coefficient d'applatissement d'une distribution (kurtosis)
+
+- kurtosis = data[column].kurtosis()
+
 ## Charts
 
 from matplotlib import pyplot as plt
