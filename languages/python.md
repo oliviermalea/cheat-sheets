@@ -48,11 +48,11 @@ import pandas as pd
 
 - data.head(5)
 
-### moyenne
+### moyenne d'une colonne
 
 - mean = data[column].mean()
 
-### median
+### median d'une colonne
 
 - median = data[column].median()
 

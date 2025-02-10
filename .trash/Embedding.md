@@ -1,0 +1,11 @@
+Dans le contexte des réseaux de neurones, un embedding se réfère à la représentation vectorielle dense de données, généralement utilisée pour représenter des mots, des phrases ou d'autres types d'entités. Ces représentations vectorielles, souvent appelées embeddings, sont apprises au cours de l'entraînement d'un modèle.
+
+Les embeddings sont particulièrement utiles pour représenter des données catégorielles ou discrètes de manière continue, en les plaçant dans un espace vectoriel où la proximité spatiale reflète des relations sémantiques ou contextuelles. Cela permet au modèle d'apprendre des représentations significatives qui capturent des similitudes entre les entités.
+
+Dans un réseau de neurones convolutionnel (CNN) ou récurrent (RNN), les embeddings peuvent être utilisés de différentes manières :
+
+1. **Embeddings de mots (Word Embeddings) dans les RNN et les CNN :** Les embeddings de mots sont largement utilisés dans le traitement du langage naturel. Chaque mot est représenté par un vecteur dense, et ces vecteurs sont souvent pré-appris sur de grands ensembles de données textuelles (par exemple, Word2Vec, GloVe, FastText). Ces embeddings capturent des informations sémantiques et contextuelles sur les relations entre les mots.
+
+2. **Embeddings de caractéristiques dans les CNN :** Dans un CNN, les couches de convolution peuvent être utilisées pour extraire des caractéristiques importantes à partir des données d'entrée, et les embeddings peuvent être utilisés pour représenter ces caractéristiques de manière plus compacte. Cela peut être particulièrement utile dans la vision par ordinateur, où des informations riches sur les caractéristiques des images peuvent être encapsulées dans des embeddings.
+
+L'utilisation d'embeddings permet de réduire la dimensionnalité des données tout en préservant des informations significatives, ce qui facilite l'entraînement des modèles et peut améliorer les performances, surtout lorsque les données sont dispersées ou de nature catégorielle.

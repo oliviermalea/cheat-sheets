@@ -4,9 +4,6 @@
 
 ```mermaid
 
----
-title: Conceptual diagram
----
 
 %%{init: {'theme':'basic'}}%%
 flowchart TB
