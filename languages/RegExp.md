@@ -1,10 +1,10 @@
-| caractère d'échappement | Description | Modèle | Correspondances |
-| ---- | ---- | ---- | ---- |
-| \a | Correspond à un caractère de cloche | \a |  |
-| \b | Dans une classe de caractères, correspond à un retour arrière | [\b]{3,} | `"\b\b\b\b"` dans `"\b\b\b\b" |
-| \t | Correspond à une tabulation | (\w+)\t | "item1\t"`, `"item2\t"` dans `"item1\titem2\t" |
-|  |  |  |  |
-|  |  |  |  |
+| caractère d'échappement | Description                                                   | Modèle   | Correspondances                                |
+| ----------------------- | ------------------------------------------------------------- | -------- | ---------------------------------------------- |
+| \a                      | Correspond à un caractère de cloche                           | \a       |                                                |
+| \b                      | Dans une classe de caractères, correspond à un retour arrière | [\b]{3,} | `"\b\b\b\b"` dans `"\b\b\b\b"                  |
+| \t                      | Correspond à une tabulation                                   | (\w+)\t  | "item1\t"`, `"item2\t"` dans `"item1\titem2\t" |
+|                         |                                                               |          |                                                |
+|                         |                                                               |          |                                                |
 
 |Character classes|   |
 |---|---|
